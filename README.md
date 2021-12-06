@@ -14,3 +14,6 @@ Construção de Modelo Preditivo utilizando Aprendizado de Máquina
   
   
   #### O aquivo modelo_preditivo_motores_de_aeronaves contém o modelo desenvolvido
+  
+  
+  Conjunto de dados: https://www.kaggle.com/maternusherold/pred-maintanance-data
