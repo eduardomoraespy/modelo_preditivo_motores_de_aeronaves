@@ -1,19 +1,15 @@
-# modelo_preditivo_motores_de_aeronaves
+# predictive model in aircraft engines
 
-Construção de Modelo Preditivo utilizando Aprendizado de Máquina
+Predictive Model Building Using Machine Learning
 
 
-### Visualização de todo projeto:
+### Viewing the entire project:
   
-  baixar localmente na maquina com git clone https://github.com/eduardomoraespy/modelo_preditivo_motores_de_aeronaves.git
+  download locally on the machine with git clone https://github.com/eduardomoraespy/modelo_preditivo_motores_de_aeronaves.git
   
-  ou
+  or
   
-  Acessar Google Colab: https://colab.research.google.com/drive/1AnZWpIyGAQHbCcFBMU2thsVUASFk5LBE#scrollTo=XECTpryS0Keg
-  
-  
-  
-  #### O aquivo modelo_preditivo_motores_de_aeronaves contém o modelo desenvolvido
+  Access Google Colab: https://colab.research.google.com/drive/1AnZWpIyGAQHbCcFBMU2thsVUASFk5LBE#scrollTo=XECTpryS0Keg
   
   
-  Conjunto de dados: https://www.kaggle.com/maternusherold/pred-maintanance-data
+  Data set: https://www.kaggle.com/maternusherold/pred-maintanance-data
